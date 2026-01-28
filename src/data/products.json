@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2ce08b10-a396-4393-af2f-fb397c5cff3e",
+    "title": "Mouse Logi",
+    "description": "Mouse inhalambrico pequeño",
+    "code": "MS002",
+    "price": 300,
+    "status": true,
+    "stock": 100,
+    "category": "Tecnologia",
+    "thumbnails": "MouseInPe.jpg"
+  }
+]
